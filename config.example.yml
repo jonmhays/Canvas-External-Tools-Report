@@ -1,0 +1,5 @@
+---
+  host: 'https://canvas-lms.example.com'
+  admin_token: 'admin_token_goes_here'
+  courses_csv: 'courses.csv'
+  report_filename: 'courses_nav_report.csv'

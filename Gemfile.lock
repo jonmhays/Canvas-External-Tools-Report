@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gli (2.12.2)
+    httparty (0.13.3)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.2)
+    json2csv (0.0.4)
+      gli (~> 2.11, >= 2.11.0)
+      json_pure (~> 1.8.1)
+      multi_json (~> 1.10.0)
+      rake (~> 10.3, >= 10.3.2)
+      terminal-table (~> 1.4, >= 1.4.5)
+    json_pure (1.8.2)
+    multi_json (1.10.1)
+    multi_xml (0.5.5)
+    rake (10.4.2)
+    terminal-table (1.4.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httparty (~> 0.13)
